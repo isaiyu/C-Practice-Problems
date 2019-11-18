@@ -1,0 +1,5 @@
+/Users/isaiahyu/Projects/test001/test001/bin/Debug/test001.exe
+/Users/isaiahyu/Projects/test001/test001/bin/Debug/test001.pdb
+/Users/isaiahyu/Projects/test001/test001/obj/Debug/test001.csprojAssemblyReference.cache
+/Users/isaiahyu/Projects/test001/test001/obj/Debug/test001.exe
+/Users/isaiahyu/Projects/test001/test001/obj/Debug/test001.pdb

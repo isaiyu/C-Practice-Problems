@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{35A8B5F9-C263-4889-AD23-6E762EC7ADF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../.gitignore">
+    <Files>
+      <File FileName="test001/Program.cs" Line="16" Column="10" />
+      <File FileName="test001/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="../.gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test001" expanded="True">
+            <Node name="test001" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.test001 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
